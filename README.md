@@ -1,4 +1,5 @@
 # Blue-Tools_Kit
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 ### 《蔚蓝档案》百科与辅助工具
 
